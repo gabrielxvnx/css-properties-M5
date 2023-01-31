@@ -9,4 +9,4 @@ propriedade que precisamos alterar.
 pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impresso
 no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
-Você vai precisar baixar esse arquivo, abrir ele no VSCODE. Após disso, abrir o terminal e dar o comando npm install e após a instalação dos arquivos, inserir um node index.js no terminal
+Você vai precisar baixar esse arquivo, abrir ele no VSCODE. Após disso, abrir o terminal e dar o comando npm install, após a instalação dos arquivos inserir um node index.js no terminal.
